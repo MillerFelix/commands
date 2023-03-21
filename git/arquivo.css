@@ -1,0 +1,10 @@
+body {
+  background-color: bisque;
+}
+ol {
+  font-family: Arial;
+  font-style: italic;
+}
+li {
+  padding-top: 5px;
+}
